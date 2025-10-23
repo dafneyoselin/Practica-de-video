@@ -1,0 +1,39 @@
+body{
+ font-family:'poppins',sans-serif;
+ background-color:#D5A4ED;
+ color:#EDA4E1;
+ margin: 0;
+ padding: 0;
+}
+
+header{
+	background-color:#B0A4ED;
+	color: white;
+	text-align: center;
+	padding: 25px;
+}
+
+.contenedor-video{
+	text-align: center;
+	background-color: white;
+	margin: 50px auto;
+	padding: 30px;
+	border-radius: 15px;
+	white:70%;
+	box-shadow: 0 4px 10px rgba(0,0,0,0,15);
+}
+
+video{
+	border-radius: 10px;
+	border:3px solid #14213d;
+	white:90%;
+	max-width: 800px;
+}
+
+footer{
+	text-align: center;
+	background-color: #000000;
+	color: white;
+	padding: 15px;
+	margin-top: 40px;
+}
